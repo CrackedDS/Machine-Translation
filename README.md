@@ -1,4 +1,6 @@
 # Machine-Translation
+NOTE: Code Cleaning, still in progress to make the code more readable to a 3rd party.
+
 Approaching Machine Translation by designing and coding a RNN from ground up.
 
 INTRODUCTION:
